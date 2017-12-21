@@ -1,0 +1,19 @@
+{
+  "name": "functionalapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "data.either": "^1.5.1",
+    "data.task": "^3.1.1",
+    "fetch": "^1.1.0",
+    "immutable-ext": "^1.1.2",
+    "node-fetch": "^1.7.3",
+    "request": "^2.83.0"
+  }
+}
